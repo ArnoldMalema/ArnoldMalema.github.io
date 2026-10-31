@@ -1,8 +1,1 @@
-# app-ads.txt for Mzansi 30 Seconds.
-#
-# AdMob only treats this file as valid when it is served from the ROOT of the
-# developer website set on the Play store listing, for example
-#   https://arnoldmalema.github.io/app-ads.txt
-# Replace PUBLISHER_ID with the 16-digit publisher id from AdMob
-# (the number after "pub-" in your ad unit ids), then delete these comments.
-google.com, pub-PUBLISHER_ID, DIRECT, f08c47fec0942fa0
+google.com, pub-4053079918732921, DIRECT, f08c47fec0942fa0
